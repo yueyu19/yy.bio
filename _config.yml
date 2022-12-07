@@ -234,13 +234,13 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Badings]
-  first_name: [Thom S.]
+  first_name: [Thom]
 
   style: apa
   locale: en
 
   source: /_bibliography/
-  bibliography: references.bib
+  bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
