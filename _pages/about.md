@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Phd Candidate at <a href='https://www.ru.nl' target='blank'>Radboud University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Thom.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Nijmegen, the Netherlands</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate with the [Department of Software Science](https://sws.cs.ru.nl/) at the [Radboud University](https://www.ru.nl/english/) in Nijmegen, the Netherlands, under supervision of [Dr. Nils Jansen](http://www.cs.ru.nl/personal/nilsjansen/) and [Prof. dr. Marielle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/). As a researcher, I am part of [PrimaVera](https://primavera-project.com/), an academic consortium on the topic of predictive maintenance. Before starting my PhD in September 2020, I studied Industrial Engineering and Management at the University of Groningen, with a specialization in Smart Systems in Control and Automation.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Research Interests
+------
+My primary research interests are on the intersection between **Engineering**, **Systems & Control**, and **Formal Verification**. While physical systems in the world of engineering are continuous, most digital solutions are designed for discrete systems. Bridging the gap between these two domains is important to solve real-world problems with digital tools, and is a recurring topic in my research. Currently, I am working on **sequential decision making under uncertainty with correctness guarantees**, with applications to autonomous and robotics systems, predictive maintenance, and electrical power systems.
