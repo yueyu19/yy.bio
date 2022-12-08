@@ -1,23 +1,6 @@
-"AAAI":
-  url: https://aaai.org/
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
 
-"JAIR":
-  url: https://www.jair.org/
-
-"CAV":
-  url: http://i-cav.org/
-
-"ENERGIES":
-  url: https://www.mdpi.com/journal/energies
-
-"IFAC":
-  url: https://www.ifac-control.org/
-
-"CDC":
-  url: https://cdc2023.ieeecss.org/
-
-"NFM":
-  url: https://nfm2022.caltech.edu/
-
-"STTT":
-  url: https://sttt.cs.uni-dortmund.de/
+"PhysRev":
+  url: https://journals.aps.org/

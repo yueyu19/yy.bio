@@ -1,43 +1,34 @@
-"Jansen":
-  - firstname: ["Nils", "N."]
-    url: https://njansen123.github.io/
+"Adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"Abate":
-  - firstname: ["Alessandro", "A."]
-    url: https://www.cs.ox.ac.uk/people/alessandro.abate/
+"Podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Suilen":
-  - firstname: ["Marnix", "M."]
-    url: https://marnixsuilen.nl/
+"Rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Romao":
-  - firstname: ["Licio", "L."]
-    url: https://licioromao.com/
+"Bach": 
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-"Parker":
-  - firstname: ["David", "D."]
-    url: https://www.cs.ox.ac.uk/people/david.parker/
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Poonawala":
-  - firstname: ["Hasan", "H.", "Hasan A."]
-    url: https://web.engr.uky.edu/~hap/
+"Przibram":
+  - firstname: ["Karl"]
+    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"Stoelinga":
-  - firstname: ["Marielle", "M.", "Mariëlle"]
-    url: https://wwwhome.ewi.utwente.nl/~marielle/
+"Schrödinger":
+  - firstname: ["Erwin"]
+    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"Topcu":
-  - firstname: ["Ufuk", "U."]
-    url: https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu
+"Lorentz":
+  - firstname: ["Hendrik Antoon"]
+    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 
-"Volk":
-  - firstname: ["Matthias", "M."]
-    url: https://people.utwente.nl/m.volk
-
-"Junges":
-  - firstname: ["Sebastian", "S."]
-    url: https://sjunges.github.io/
-
-"Katoen":
-  - firstname: ["Joost-Pieter", "J.", "J.P."]
-    url: https://www-i2.informatik.rwth-aachen.de/~katoen/
+"Planck":
+  - firstname: ["Max"]
+    url: https://en.wikipedia.org/wiki/Max_Planck
