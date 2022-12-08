@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2022-11-18 15:59:00-0400
+inline: true
+---
+
+Our paper "[Probabilities Are Not Enough: Formal Controller Synthesis for Stochastic Dynamical Models with Epistemic Uncertainty](https://arxiv.org/abs/2210.05989)" has been accepted for presentation at AAAI 2023.
