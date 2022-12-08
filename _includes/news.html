@@ -2,28 +2,47 @@
           <div class="news">
             <h2>news</h2>
             {% if site.news != blank -%} 
-            {%- assign news_size = site.news | size -%}
-            <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
-              <table class="table table-sm table-borderless">
-              {%- assign news = site.news | reverse -%}
-              {% if site.news_limit %}
-              {% assign news_limit = site.news_limit %}
-              {% else %}
-              {% assign news_limit = news_size %}
-              {% endif %}
-              {% for item in news limit: news_limit %} 
-                <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-                  <td>
-                    {% if item.inline -%} 
-                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-                    {%- else -%} 
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                    {%- endif %} 
-                  </td>
-                </tr>
-              {%- endfor %} 
-              </table>
+          <div id="timeline">
+              <div>
+              {% assign total_news = 0 %}
+
+              {% assign news_by_year = site.news  | reverse | group_by_exp:"item", "item.date | date: '%Y'" %}
+              {% for year in news_by_year %}
+
+                <section class="year">
+                  <h3>{{year.name}}</h3>
+                  {% assign posts_by_month = year.items | group_by_exp:"item", "item.date | date: '%B'"  %}
+                  {% for month in posts_by_month %}
+                  <section>
+                    <h4>{{month.name}}</h4>
+                    <ul>
+                    {% for item in month.items %}
+                      <li>
+                      {% if item.inline %}
+                        {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                      {% else %}
+                        <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                      {% endif %}
+                      </li>
+                    {% endfor %}
+                    </ul>
+                  </section>
+                  {% endfor %}
+                </section>
+                {% assign new_total = total_news | plus: year.items.size  %}
+                {% if total_news  <  site.news_limit and new_total >= site.news_limit %}
+                  <details class="description">
+                    <summary class="text-muted" data-open="Less" data-close="More">
+                    </summary>
+                {% endif %}
+                {% assign total_news = new_total %}
+
+              {% endfor %}
+
+                  {% if site.news.size > site.news_limit%}
+                    </details>
+                  {% endif %}
+              </div>
             </div>
           {%- else -%} 
             <p>No news so far...</p>

@@ -1,34 +1,43 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Jansen":
+  - firstname: ["Nils", "N."]
+    url: https://njansen123.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Abate":
+  - firstname: ["Alessandro", "A."]
+    url: https://www.cs.ox.ac.uk/people/alessandro.abate/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Suilen":
+  - firstname: ["Marnix", "M."]
+    url: https://marnixsuilen.nl/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Romao":
+  - firstname: ["Licio", "L."]
+    url: https://licioromao.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Parker":
+  - firstname: ["David", "D."]
+    url: https://www.cs.ox.ac.uk/people/david.parker/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Poonawala":
+  - firstname: ["Hasan", "H.", "Hasan A."]
+    url: https://web.engr.uky.edu/~hap/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Stoelinga":
+  - firstname: ["Marielle", "M.", "Mariëlle"]
+    url: https://wwwhome.ewi.utwente.nl/~marielle/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Topcu":
+  - firstname: ["Ufuk", "U."]
+    url: https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Volk":
+  - firstname: ["Matthias", "M."]
+    url: https://people.utwente.nl/m.volk
+
+"Junges":
+  - firstname: ["Sebastian", "S."]
+    url: https://sjunges.github.io/
+
+"Katoen":
+  - firstname: ["Joost-Pieter", "J.", "J.P."]
+    url: https://www-i2.informatik.rwth-aachen.de/~katoen/
