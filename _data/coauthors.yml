@@ -41,3 +41,23 @@
 "Katoen":
   - firstname: ["Joost-Pieter", "J.", "J.P."]
     url: https://www-i2.informatik.rwth-aachen.de/~katoen/
+
+"Simão":
+  - firstname: ["Thiago D.", "T."]
+    url: https://tdsimao.github.io/ 
+
+"Cubuktepe":
+  - firstname: ["Murat", "M."]
+    url: https://mcubuktepe.github.io/
+
+"Rickard":
+  - firstname: ["Luke"]
+    url: https://www.lukerickard.co.uk/
+
+"Hartmanns":
+  - firstname: ["Arnd"]
+    url: https://arnd.hartmanns.name/
+
+"Scherpen":
+  - firstname: ["Jacquelien M.A.", "Jacquelien M. A."]
+    url: https://www.rug.nl/staff/j.m.a.scherpen/
