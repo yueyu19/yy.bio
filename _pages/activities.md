@@ -22,9 +22,9 @@ In addition to the conferences listed in my publicatoin list, I have attended an
 
 Talks at other Universities
 ------
-**Virtual:** UT Austin (2023), University of Oxford (November 2021), KTH Stockholm (November 2021), TU Delft (March 2021) 
+**Virtual:** UT Austin (April 2023), University of Oxford (November 2021), KTH Stockholm (November 2021), TU Delft (March 2021) 
 
-**In-person:** Saarland University (November 2022), UT Austin (April 2022)
+**In-person:** TU Delft (February 2023), Saarland University (November 2022), UT Austin (April 2022)
 
 External Reviewer
 ------

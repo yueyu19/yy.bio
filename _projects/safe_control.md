@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Safe Control
+title: Safe Control Under Uncertainty
 description: Designing provably correct controllers for dynamical control systems under uncertainty.
 img: assets/img/projects/uav_conceptual.jpg
 importance: 2
@@ -36,4 +36,9 @@ Now consider the specific UAV delivery problem in Figure 2, with the target area
 </div>
 <div class="caption">
     Simulated trajectories for the UAV under different turbulence conditions. Left: weak turbulence. Right: strong turbulence.
+</div>
+
+<div class="publications">
+<h2>Related publications</h2>
+{% bibliography -f papers -q @*[safecontrol=true]* %}
 </div>
