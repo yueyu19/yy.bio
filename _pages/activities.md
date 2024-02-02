@@ -31,8 +31,8 @@ Talks at other Universities
 
 External Reviewer
 ------
-**Conference program Committees:** AAAI (2023), AAMAS (2023)
+**Conference program committees:** AAAI (2023), AAMAS (2023)
 
-**Conferences:** AAAI, AAMAS, NeurIPS, ICML, ICAPS, ICRA, QEST, PHASE, Formal Methods (FM), ADHS, ECC
+**Conference reviewing:** AAAI, AAMAS, NeurIPS, ICML, ICAPS, ICRA, L4DC, TACAS, QEST, PHASE, Formal Methods (FM), ADHS, ECC
 
-**Journals:** IEEE Transactions on Control of Network Systems (TCNS), IEEE Control Systems Letters (L-CSS), IEEE, Transactions on Automatic Control
+**Journal reviewing (all IEEE):** Transactions on Automatic Control, Control Systems Letters (L-CSS), Transactions on Industrial Informatics (TII), Transactions on Control of Network Systems (TCNS)
