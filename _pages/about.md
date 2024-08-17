@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, Department of Aerospace Engineering and Mechanics, University of Minnesota Twin Cities
 
 profile:
   align: right
