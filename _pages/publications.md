@@ -11,7 +11,7 @@ scholar:
   first_name: [Yue]
 ---
 
-See also my <a href="https://scholar.google.com/citations?hl=en&user=ji9uRfcAAAAJ">Google scholar</a> 
+See also my <a href="https://scholar.google.com/citations?user=bwhxFnEAAAAJ&hl=en">Google scholar</a> 
 
 <!-- _pages/publications.md -->
 <div class="publications">
