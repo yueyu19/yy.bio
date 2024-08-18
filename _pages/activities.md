@@ -2,7 +2,7 @@
 layout: page
 permalink: /activities/
 title: Activities
-description: A nonexhaustive overview of my professional activities.
+description: 
 nav: true
 nav_order: 3
 ---
@@ -20,6 +20,7 @@ I have been invited to present my work at the following events.
 
 Invited Talks at Other Universities
 ------
+- The University of Minnesota Twin Cities, Department of Aerospace Engineering and Mechanics, Feb 2024. (Host: Demoz Gebre-Egziabher)
 - Massachusetts Institute of Technology, REALM group, October 2023. (Host: Kunal Garg)
 - The University of California San Diego, Department of Mechanical and Aerospace Engineering, October 2023. (Host: Sylvia Herbert)
 - The California Institute of Technology, Department of Computing and Mathematical Sciences, October 2023. (Host: Jing Yu)
