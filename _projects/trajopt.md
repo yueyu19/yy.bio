@@ -7,5 +7,4 @@ importance: 1
 category: work
 ---
 
-<img src="assets/img/projects/6agent_traj.gif">
-<img src="assets/img/projects/hoop_clip.gif">
+![Alt Text](assets/img/projects/6agent_traj.gif)
