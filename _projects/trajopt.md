@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PrimaVera
-description: Predictive Maintenance for Very Effective Asset Management.
+title: Trajectory Optimization
+description: Scalable and Real-Time Trajectory Optimization.
 img: assets/img/projects/primavera_logo.jpg
 importance: 1
 category: work
