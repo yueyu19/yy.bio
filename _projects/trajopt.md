@@ -7,5 +7,5 @@ importance: 1
 category: work
 ---
 
-<img src="https://assets/img/projects/6agent_traj.gif">
-<img src="https://assets/img/projects/hoop_clip.gif">
+<img src="assets/img/projects/6agent_traj.gif">
+<img src="assets/img/projects/hoop_clip.gif">
